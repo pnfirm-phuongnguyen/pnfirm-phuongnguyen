@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pnfirm-phuongnguyen
 - 👀 I’m interested in business, technology and legal 
-- 🌱 I’m currently learning coding , programing with Python languages 
+- 🌱 I’m currently learning coding , programing with Python , C ++, GO , HASKELL, RUST
 - 💞️ I’m looking to collaborate on Github and my website 
 - 📫 How to reach me , email me at dieuphuong@pnfirm.com
 
